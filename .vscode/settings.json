@@ -1,0 +1,27 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/__pypackages__/3.10/lib"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/__pypackages__/3.10/lib"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#1e242f",
+    "activityBar.background": "#1e242f",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#754b59",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#1e242f",
+    "statusBar.background": "#0a0c10",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#1e242f",
+    "statusBarItem.remoteBackground": "#0a0c10",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#0a0c10",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0a0c1099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}
